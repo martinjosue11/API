@@ -99,7 +99,7 @@ class ApiTwoState extends State<ApiTwoPage> {
                         ),
                         Container(
                           padding: EdgeInsets.all(10.0),
-                          child: Text('Imagen del video juego'),
+                          child: Text('Imagen del videojuego'),
                           decoration: BoxDecoration(
                               borderRadius: BorderRadius.circular((25.0)),
                               color: Colors.cyan[50],
