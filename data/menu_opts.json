@@ -1,0 +1,40 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "1.- Api",
+            "icon" : "list1",
+            "texto": "1° API"
+        },
+        {
+            "ruta" : "2.- Api",
+            "icon" : "list2",
+            "texto": "2° API"
+        },
+        {
+            "ruta" : "3.- Api",
+            "icon" : "list3",
+            "texto": "3° API"
+        },
+        {
+            "ruta" : "4.- Api",
+            "icon" : "list4",
+            "texto": "4° API"
+        },
+        {
+            "ruta" : "5.- Api",
+            "icon" : "list5",
+            "texto": "5° API"
+        },
+        {
+            "ruta" : "6.- Api",
+            "icon" : "list6",
+            "texto": "6° API"
+        },
+        {
+            "ruta" : "7.- Api",
+            "icon" : "list6",
+            "texto": "7° API"
+        }
+    ]
+}
